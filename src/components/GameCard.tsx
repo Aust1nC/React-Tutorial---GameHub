@@ -11,6 +11,7 @@ import {
 import PlatformIconList from "./PlatformIconList";
 import CriticScore from "./CriticScore";
 import getCroppedImageUrl from "../services/image-urls";
+import GameCardContainer from "./GameCardContainer";
 
 interface Props {
   game: Game;
