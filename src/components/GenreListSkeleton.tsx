@@ -1,10 +1,4 @@
-import {
-  HStack,
-  List,
-  Skeleton,
-  SkeletonCircle,
-  SkeletonText,
-} from "@chakra-ui/react";
+import { HStack, List, Skeleton, SkeletonCircle } from "@chakra-ui/react";
 
 const GenreListSkeleton = () => {
   return (
